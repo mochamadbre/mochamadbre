@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mochamadbre
 - 👀 I’m interested in tech n' music
-- 🌱 I’m currently Computer Science Major
+- 🌱 I’m currently studying Computer Science Major
 - email: mochamadbre@gmail.com
 - instagram: mochamadbre_
 
